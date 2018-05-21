@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1518831211 source:c:\users\tales\desktop\fazer\projeto_2_ed\hashing.c
+	<stdlib.h>
+	<stdio.h>
+	"hashing.h"
+
+1518569306 c:\users\tales\desktop\fazer\projeto_2_ed\hashing.h
+	<stdlib.h>
+
+1518923998 source:c:\users\tales\desktop\fazer\projeto_2_ed\mylibrary.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+
+1518923913 c:\users\tales\desktop\fazer\projeto_2_ed\mylibrary.h
+
+1518923850 source:c:\users\tales\desktop\fazer\projeto_2_ed\main.c
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+	<stdio.h>
+
+1518317113 c:\users\tales\desktop\fazer\projeto_2_ed\qualis.h
+
+1518030589 source:d:\tales\projeto_2_ed\hashing.c
+	<stdlib.h>
+	"hashing.h"
+	<stdio.h>
+
+1517882254 d:\tales\projeto_2_ed\hashing.h
+
+1518030268 source:d:\tales\projeto_2_ed\main.c
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+	<stdlib.h>
+	<stdio.h>
+
+1517872652 d:\tales\projeto_2_ed\qualis.h
+
+1518027345 d:\tales\projeto_2_ed\mylibrary.h
+	<stdio.h>
+
+1518030574 source:d:\tales\projeto_2_ed\mylibrary.c
+	<stdio.h>
+	<conio.h>
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+
+1518320448 c:\users\tales\desktop\fazer\projeto_2_ed\mainfunctions.h
+
+1518320459 source:c:\users\tales\desktop\fazer\projeto_2_ed\mainfunctions.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"hashing.h"
+	"qualis.h"
+	"mainFunctions.h"
+
+1518833553 source:c:\users\tales\desktop\fazer\projeto_2_ed\testes.c
+	<stdio.h>
+	<conio.h>
+	"hashing.h"
+	"testes.h"
+	"qualis.h"
+
+1518833548 c:\users\tales\desktop\fazer\projeto_2_ed\testes.h
+
+1518545949 source:c:\users\tales\desktop\projeto_2_ed\hashing.c
+	<stdlib.h>
+	<stdio.h>
+	"hashing.h"
+
+1518545648 c:\users\tales\desktop\projeto_2_ed\hashing.h
+	<stdlib.h>
+
+1518567259 source:c:\users\tales\desktop\projeto_2_ed\main.c
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+	"testes.h"
+	<stdio.h>
+
+1518317113 c:\users\tales\desktop\projeto_2_ed\qualis.h
+
+1518540044 c:\users\tales\desktop\projeto_2_ed\mylibrary.h
+
+1518496714 c:\users\tales\desktop\projeto_2_ed\testes.h
+
+1518497351 source:c:\users\tales\desktop\projeto_2_ed\testes.c
+	<stdio.h>
+	"hashing.h"
+	"testes.h"
+	"qualis.h"
+
+1518565711 source:c:\users\tales\desktop\projeto_2_ed\mylibrary.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"hashing.h"
+	"qualis.h"
+	"myLibrary.h"
+
